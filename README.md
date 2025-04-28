@@ -1,4 +1,4 @@
-# 📦 3D Shape Modeling Project
+# 3D Shape Modeling Project
 
 ## Objective
 
